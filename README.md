@@ -1,2 +1,2 @@
-# System-Design-
+# System-Design
 Compressive system design study 
